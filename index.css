@@ -1,0 +1,18 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background-color: #fff;
+  color: #000;
+  font: 16px/24px Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
